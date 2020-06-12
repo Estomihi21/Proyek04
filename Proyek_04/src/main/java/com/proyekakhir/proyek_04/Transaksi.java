@@ -7,7 +7,7 @@ package com.proyekakhir.proyek_04;
 
 /**
  *
- * @author Estomihi R Sirait
+ * @author Dita L Sastri Sihombing
  */
 public class Transaksi {
     

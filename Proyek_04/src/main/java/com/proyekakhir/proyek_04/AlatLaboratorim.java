@@ -7,7 +7,7 @@ package com.proyekakhir.proyek_04;
 
 /**
  *
- * @author Dita L Sastri Sihombing
+ * @author Giovani Situmorang
  */
 public class AlatLaboratorim {
     
