@@ -5,10 +5,32 @@
  */
 package com.proyekakhir.proyek_04;
 
+import java.util.Date;
+
 /**
  *
- * @author Estomihi R Sirait
+ * @author 12S18035 - Angelina Naomi
  */
 public class Laboran {
+    private String ID_laboran;
+    private String Password;
+    private char username;
+    private String full_name;
+    Date Registered;
     
+    public Laboran(String ID_laboran, String Password, char Username, String full_name, Date Registered){
+        this.ID_laboran = ID_laboran;
+        this.Password = Password;
+        this.full_name = full_name;
+        this.username = username;
+        this.Registered = Registered;
+    }
+    
+    public void Validate_equipment(){
+        this.ID_laboran = ID_laboran;
+        this.Registered = Registered;
+    }
+    public void Manage(){
+        this.ID_laboran = ID_laboran;
+    }
 }
