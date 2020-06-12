@@ -9,6 +9,6 @@ package com.proyekakhir.proyek_04;
  *
  * @author Estomihi R Sirait
  */
-public class Tranasaksi {
+public class Transaksi {
     
 }
