@@ -11,4 +11,17 @@ package com.proyekakhir.proyek_04;
  */
 public class Transaksi {
     
+    private String ID_transaksi;
+    Date Borrowed;
+    Date Returned;
+    
+    public Transaksi(String ID_transaksi, Date Borrowed, Date Returned){
+        this.Borrowed = Borrowed;
+        this.ID_transaksi = ID_transaksi;
+        this.Returned = Returned;
+    }
+    
+    public void Validate(){
+        this.ID_transaksi = ID_transaksi;
+    }
 }
